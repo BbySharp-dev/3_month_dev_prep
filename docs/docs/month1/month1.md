@@ -1,0 +1,1 @@
+### Tháng 1: Nền tảng C# và ASP.NET Core: Tháng đầu tiên tập trung vào việc xây dựng nền tảng C# và ASP.NET Core, vì đây là back-end và cần thời gian để làm quen với cú pháp và khái niệm.

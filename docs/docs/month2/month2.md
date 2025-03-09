@@ -1,0 +1,1 @@
+### Tháng 2: JavaScript và React: Tháng thứ hai chuyển sang front-end, bắt đầu với JavaScript và React, vì Next.js dựa trên React.
